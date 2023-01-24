@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-Kodluyoruz Java ile Backend Web Development kapsamında açtığım ilk repo
+Kodluyoruz Java ile Backend Web Development kapsamında açtığım ilk repo.
